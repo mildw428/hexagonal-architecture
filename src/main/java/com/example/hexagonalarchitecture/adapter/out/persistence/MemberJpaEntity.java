@@ -1,4 +1,4 @@
-package com.example.hexagonalarchitecture.domain.model;
+package com.example.hexagonalarchitecture.adapter.out.persistence;
 
 import jakarta.persistence.*;
 import lombok.Getter;

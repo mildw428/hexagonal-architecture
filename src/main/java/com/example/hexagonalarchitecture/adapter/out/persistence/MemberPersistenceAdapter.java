@@ -1,7 +1,6 @@
 package com.example.hexagonalarchitecture.adapter.out.persistence;
 
 import com.example.hexagonalarchitecture.domain.model.Member;
-import com.example.hexagonalarchitecture.domain.model.MemberJpaEntity;
 import com.example.hexagonalarchitecture.domain.port.out.SaveMemberPort;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
